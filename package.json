@@ -1,0 +1,20 @@
+{
+  "name": "ephemeral-accumulation-for-human-time-scale",
+  "version": "1.0.0",
+  "description": "Ephemeral Accumulation for Human Time Scale - A generative art sketch featuring ephemeral accumulation of line patterns",
+  "main": "sketch.js",
+  "scripts": {
+    "start": "canvas-sketch sketch.js --open",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Marlon Barrios Solano",
+  "license": "ISC",
+  "dependencies": {
+    "canvas-sketch": "^0.7.6",
+    "p5": "^1.5.0"
+  },
+  "devDependencies": {
+    "canvas-sketch-cli": "^1.15.0"
+  }
+}
