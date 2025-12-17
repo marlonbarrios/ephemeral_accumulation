@@ -5,6 +5,9 @@
 
 A generative art sketch that creates continuous line patterns using an agent-based drawing system. The agent moves across the canvas, drawing lines as it bounces off borders and avoids crossing its own path. Lines accumulate over time while gradually fading away, creating an ephemeral accumulation effect where recent lines are darker and older ones fade to white.
 
+## 🌐 Live App
+
+**[View the live application →](https://marlonbarrios.github.io/ephemeral_accumulation/)**
 
 ## Features
 
